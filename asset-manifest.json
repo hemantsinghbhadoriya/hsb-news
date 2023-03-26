@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hsb-news/static/css/main.4134baf0.css",
-    "main.js": "/hsb-news/static/js/main.fdbf15da.js",
+    "main.js": "/hsb-news/static/js/main.820fdec6.js",
     "static/js/988.05d0da2d.chunk.js": "/hsb-news/static/js/988.05d0da2d.chunk.js",
     "index.html": "/hsb-news/index.html",
     "main.4134baf0.css.map": "/hsb-news/static/css/main.4134baf0.css.map",
-    "main.fdbf15da.js.map": "/hsb-news/static/js/main.fdbf15da.js.map",
+    "main.820fdec6.js.map": "/hsb-news/static/js/main.820fdec6.js.map",
     "988.05d0da2d.chunk.js.map": "/hsb-news/static/js/988.05d0da2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4134baf0.css",
-    "static/js/main.fdbf15da.js"
+    "static/js/main.820fdec6.js"
   ]
 }
